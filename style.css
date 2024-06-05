@@ -2,7 +2,7 @@ body{
     text-align: center;
     padding-top: 5%;
     font-family:Arial, Helvetica, sans-serif;
-    background-image: url("/docs/ressources/background-light.png");
+    background-image: url("/ressources/background-light.png");
     background-position: center;
 }
 
@@ -11,7 +11,7 @@ header {
     margin-left: auto;
     margin-right: auto;
     max-width: 450px;
-    background-image: url(/docs/ressources/cloud_bckgd.png);
+    background-image: url(/ressources/cloud_bckgd.png);
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;

@@ -2,7 +2,7 @@ body{
     text-align: center;
     padding-top: 5%;
     font-family:Arial, Helvetica, sans-serif;
-    background-image: url("/docs/ressources/background-purple.png");
+    background-image: url("/ressources/background-purple.png");
     background-position: center;
 }
 
@@ -19,7 +19,7 @@ p{
     font-family: Spirax;
     font-size: 1.5em;
     color: #2b1053;
-    background-image: url("/docs/ressources/cloud_bckgd.png");
+    background-image: url("/ressources/cloud_bckgd.png");
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
