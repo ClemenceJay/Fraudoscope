@@ -5,7 +5,7 @@ let page = document.getElementById("styleCss");
 //Function to display the fraudoscope result when button is clicked + change css
 
 const displayFraudoscope = () => {
-    page.href = "./styleClicked.css";
+    document.body.classList.add("afterClick");
     paragraph.innerHTML = resultat; //result from messageGenerator.js
     button.innerHTML = "Reviens demain pour un nouveau Fraudoscope!"
 }
